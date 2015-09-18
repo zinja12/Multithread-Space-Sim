@@ -1,0 +1,97 @@
+% ruby space.rb display public4.in 
+----------------------------------------
+Earth         Kirk McCoy Spock 
+Vulcan        
+----------------------------------------
+Enterprise docking at Earth
+----------------------------------------
+Earth         Kirk McCoy Spock 
+  Enterprise   
+Vulcan        
+----------------------------------------
+Kirk boarding Enterprise at Earth
+----------------------------------------
+Earth         McCoy Spock 
+  Enterprise   Kirk 
+Vulcan        
+----------------------------------------
+Spock boarding Enterprise at Earth
+----------------------------------------
+Earth         McCoy 
+  Enterprise   Kirk Spock 
+Vulcan        
+----------------------------------------
+Enterprise departing from Earth
+----------------------------------------
+Earth         McCoy 
+Vulcan        
+----------------------------------------
+Voyager docking at Earth
+----------------------------------------
+Earth         McCoy 
+  Voyager      
+Vulcan        
+----------------------------------------
+McCoy boarding Voyager at Earth
+----------------------------------------
+Earth         
+  Voyager      McCoy 
+Vulcan        
+----------------------------------------
+Enterprise docking at Vulcan
+----------------------------------------
+Earth         
+  Voyager      McCoy 
+Vulcan        
+  Enterprise   Kirk Spock 
+----------------------------------------
+Kirk departing Enterprise at Vulcan
+----------------------------------------
+Earth         
+  Voyager      McCoy 
+Vulcan        Kirk 
+  Enterprise   Spock 
+----------------------------------------
+Spock departing Enterprise at Vulcan
+----------------------------------------
+Earth         
+  Voyager      McCoy 
+Vulcan        Kirk Spock 
+  Enterprise   
+----------------------------------------
+Voyager departing from Earth
+----------------------------------------
+Earth         
+Vulcan        Kirk Spock 
+  Enterprise   
+----------------------------------------
+Enterprise departing from Vulcan
+----------------------------------------
+Earth         
+Vulcan        Kirk Spock 
+----------------------------------------
+Voyager docking at Vulcan
+----------------------------------------
+Earth         
+Vulcan        Kirk Spock 
+  Voyager      McCoy 
+----------------------------------------
+McCoy departing Voyager at Vulcan
+----------------------------------------
+Earth         
+Vulcan        Kirk McCoy Spock 
+  Voyager      
+----------------------------------------
+Enterprise docking at Earth
+----------------------------------------
+Earth         
+  Enterprise   
+Vulcan        Kirk McCoy Spock 
+  Voyager      
+----------------------------------------
+Voyager departing from Vulcan
+----------------------------------------
+Earth         
+  Enterprise   
+Vulcan        Kirk McCoy Spock 
+----------------------------------------

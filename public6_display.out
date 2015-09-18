@@ -1,0 +1,359 @@
+% ruby space.rb display public6.in 
+----------------------------------------
+Tatooine      Han Leia Luke 
+Dagobah       
+Endor         Vader 
+----------------------------------------
+MillenniumFalcon docking at Tatooine
+----------------------------------------
+Tatooine      Han Leia Luke 
+  MillenniumFalcon 
+Dagobah       
+Endor         Vader 
+----------------------------------------
+Luke boarding MillenniumFalcon at Tatooine
+----------------------------------------
+Tatooine      Han Leia 
+  MillenniumFalcon Luke 
+Dagobah       
+Endor         Vader 
+----------------------------------------
+Leia boarding MillenniumFalcon at Tatooine
+----------------------------------------
+Tatooine      Han 
+  MillenniumFalcon Leia Luke 
+Dagobah       
+Endor         Vader 
+----------------------------------------
+MillenniumFalcon departing from Tatooine
+----------------------------------------
+Tatooine      Han 
+Dagobah       
+Endor         Vader 
+----------------------------------------
+TieFighter docking at Tatooine
+----------------------------------------
+Tatooine      Han 
+  TieFighter   
+Dagobah       
+Endor         Vader 
+----------------------------------------
+Han boarding TieFighter at Tatooine
+----------------------------------------
+Tatooine      
+  TieFighter   Han 
+Dagobah       
+Endor         Vader 
+----------------------------------------
+MillenniumFalcon docking at Dagobah
+----------------------------------------
+Tatooine      
+  TieFighter   Han 
+Dagobah       
+  MillenniumFalcon Leia Luke 
+Endor         Vader 
+----------------------------------------
+Luke departing MillenniumFalcon at Dagobah
+----------------------------------------
+Tatooine      
+  TieFighter   Han 
+Dagobah       Luke 
+  MillenniumFalcon Leia 
+Endor         Vader 
+----------------------------------------
+TieFighter departing from Tatooine
+----------------------------------------
+Tatooine      
+Dagobah       Luke 
+  MillenniumFalcon Leia 
+Endor         Vader 
+----------------------------------------
+DeathStar docking at Tatooine
+----------------------------------------
+Tatooine      
+  DeathStar    
+Dagobah       Luke 
+  MillenniumFalcon Leia 
+Endor         Vader 
+----------------------------------------
+MillenniumFalcon departing from Dagobah
+----------------------------------------
+Tatooine      
+  DeathStar    
+Dagobah       Luke 
+Endor         Vader 
+----------------------------------------
+TieFighter docking at Dagobah
+----------------------------------------
+Tatooine      
+  DeathStar    
+Dagobah       Luke 
+  TieFighter   Han 
+Endor         Vader 
+----------------------------------------
+DeathStar departing from Tatooine
+----------------------------------------
+Tatooine      
+Dagobah       Luke 
+  TieFighter   Han 
+Endor         Vader 
+----------------------------------------
+MillenniumFalcon docking at Endor
+----------------------------------------
+Tatooine      
+Dagobah       Luke 
+  TieFighter   Han 
+Endor         Vader 
+  MillenniumFalcon Leia 
+----------------------------------------
+Vader boarding MillenniumFalcon at Endor
+----------------------------------------
+Tatooine      
+Dagobah       Luke 
+  TieFighter   Han 
+Endor         
+  MillenniumFalcon Leia Vader 
+----------------------------------------
+Leia departing MillenniumFalcon at Endor
+----------------------------------------
+Tatooine      
+Dagobah       Luke 
+  TieFighter   Han 
+Endor         Leia 
+  MillenniumFalcon Vader 
+----------------------------------------
+TieFighter departing from Dagobah
+----------------------------------------
+Tatooine      
+Dagobah       Luke 
+Endor         Leia 
+  MillenniumFalcon Vader 
+----------------------------------------
+DeathStar docking at Dagobah
+----------------------------------------
+Tatooine      
+Dagobah       Luke 
+  DeathStar    
+Endor         Leia 
+  MillenniumFalcon Vader 
+----------------------------------------
+Luke boarding DeathStar at Dagobah
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    Luke 
+Endor         Leia 
+  MillenniumFalcon Vader 
+----------------------------------------
+MillenniumFalcon departing from Endor
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    Luke 
+Endor         Leia 
+----------------------------------------
+TieFighter docking at Endor
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    Luke 
+Endor         Leia 
+  TieFighter   Han 
+----------------------------------------
+Han departing TieFighter at Endor
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    Luke 
+Endor         Han Leia 
+  TieFighter   
+----------------------------------------
+DeathStar departing from Dagobah
+----------------------------------------
+Tatooine      
+Dagobah       
+Endor         Han Leia 
+  TieFighter   
+----------------------------------------
+MillenniumFalcon docking at Tatooine
+----------------------------------------
+Tatooine      
+  MillenniumFalcon Vader 
+Dagobah       
+Endor         Han Leia 
+  TieFighter   
+----------------------------------------
+Vader departing MillenniumFalcon at Tatooine
+----------------------------------------
+Tatooine      Vader 
+  MillenniumFalcon 
+Dagobah       
+Endor         Han Leia 
+  TieFighter   
+----------------------------------------
+TieFighter departing from Endor
+----------------------------------------
+Tatooine      Vader 
+  MillenniumFalcon 
+Dagobah       
+Endor         Han Leia 
+----------------------------------------
+DeathStar docking at Endor
+----------------------------------------
+Tatooine      Vader 
+  MillenniumFalcon 
+Dagobah       
+Endor         Han Leia 
+  DeathStar    Luke 
+----------------------------------------
+Luke departing DeathStar at Endor
+----------------------------------------
+Tatooine      Vader 
+  MillenniumFalcon 
+Dagobah       
+Endor         Han Leia Luke 
+  DeathStar    
+----------------------------------------
+MillenniumFalcon departing from Tatooine
+----------------------------------------
+Tatooine      Vader 
+Dagobah       
+Endor         Han Leia Luke 
+  DeathStar    
+----------------------------------------
+TieFighter docking at Tatooine
+----------------------------------------
+Tatooine      Vader 
+  TieFighter   
+Dagobah       
+Endor         Han Leia Luke 
+  DeathStar    
+----------------------------------------
+Vader boarding TieFighter at Tatooine
+----------------------------------------
+Tatooine      
+  TieFighter   Vader 
+Dagobah       
+Endor         Han Leia Luke 
+  DeathStar    
+----------------------------------------
+DeathStar departing from Endor
+----------------------------------------
+Tatooine      
+  TieFighter   Vader 
+Dagobah       
+Endor         Han Leia Luke 
+----------------------------------------
+MillenniumFalcon docking at Dagobah
+----------------------------------------
+Tatooine      
+  TieFighter   Vader 
+Dagobah       
+  MillenniumFalcon 
+Endor         Han Leia Luke 
+----------------------------------------
+TieFighter departing from Tatooine
+----------------------------------------
+Tatooine      
+Dagobah       
+  MillenniumFalcon 
+Endor         Han Leia Luke 
+----------------------------------------
+DeathStar docking at Tatooine
+----------------------------------------
+Tatooine      
+  DeathStar    
+Dagobah       
+  MillenniumFalcon 
+Endor         Han Leia Luke 
+----------------------------------------
+MillenniumFalcon departing from Dagobah
+----------------------------------------
+Tatooine      
+  DeathStar    
+Dagobah       
+Endor         Han Leia Luke 
+----------------------------------------
+TieFighter docking at Dagobah
+----------------------------------------
+Tatooine      
+  DeathStar    
+Dagobah       
+  TieFighter   Vader 
+Endor         Han Leia Luke 
+----------------------------------------
+DeathStar departing from Tatooine
+----------------------------------------
+Tatooine      
+Dagobah       
+  TieFighter   Vader 
+Endor         Han Leia Luke 
+----------------------------------------
+MillenniumFalcon docking at Endor
+----------------------------------------
+Tatooine      
+Dagobah       
+  TieFighter   Vader 
+Endor         Han Leia Luke 
+  MillenniumFalcon 
+----------------------------------------
+TieFighter departing from Dagobah
+----------------------------------------
+Tatooine      
+Dagobah       
+Endor         Han Leia Luke 
+  MillenniumFalcon 
+----------------------------------------
+DeathStar docking at Dagobah
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    
+Endor         Han Leia Luke 
+  MillenniumFalcon 
+----------------------------------------
+MillenniumFalcon departing from Endor
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    
+Endor         Han Leia Luke 
+----------------------------------------
+TieFighter docking at Endor
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    
+Endor         Han Leia Luke 
+  TieFighter   Vader 
+----------------------------------------
+Vader departing TieFighter at Endor
+----------------------------------------
+Tatooine      
+Dagobah       
+  DeathStar    
+Endor         Han Leia Luke Vader 
+  TieFighter   
+----------------------------------------
+DeathStar departing from Dagobah
+----------------------------------------
+Tatooine      
+Dagobah       
+Endor         Han Leia Luke Vader 
+  TieFighter   
+----------------------------------------
+MillenniumFalcon docking at Tatooine
+----------------------------------------
+Tatooine      
+  MillenniumFalcon 
+Dagobah       
+Endor         Han Leia Luke Vader 
+  TieFighter   
+----------------------------------------
+TieFighter departing from Endor
+----------------------------------------
+Tatooine      
+  MillenniumFalcon 
+Dagobah       
+Endor         Han Leia Luke Vader 
+----------------------------------------

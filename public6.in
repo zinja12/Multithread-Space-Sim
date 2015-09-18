@@ -1,0 +1,62 @@
+% ruby space.rb simulate public_6.in 
+=== Starports ===
+Tatooine 1
+Dagobah 1
+Endor 2
+=== Starships ===
+MillenniumFalcon 2
+DeathStar 4
+TieFighter 1
+=== Travelers ===
+Luke Tatooine Dagobah Endor 
+Han Tatooine Endor 
+Leia Tatooine Endor 
+Vader Endor Tatooine Endor 
+=== Output ===
+MillenniumFalcon docking at Tatooine
+  Luke boarding MillenniumFalcon at Tatooine
+  Leia boarding MillenniumFalcon at Tatooine
+MillenniumFalcon departing from Tatooine
+TieFighter docking at Tatooine
+  Han boarding TieFighter at Tatooine
+MillenniumFalcon docking at Dagobah
+  Luke departing MillenniumFalcon at Dagobah
+TieFighter departing from Tatooine
+DeathStar docking at Tatooine
+MillenniumFalcon departing from Dagobah
+TieFighter docking at Dagobah
+DeathStar departing from Tatooine
+MillenniumFalcon docking at Endor
+  Vader boarding MillenniumFalcon at Endor
+  Leia departing MillenniumFalcon at Endor
+TieFighter departing from Dagobah
+DeathStar docking at Dagobah
+  Luke boarding DeathStar at Dagobah
+MillenniumFalcon departing from Endor
+TieFighter docking at Endor
+  Han departing TieFighter at Endor
+DeathStar departing from Dagobah
+MillenniumFalcon docking at Tatooine
+  Vader departing MillenniumFalcon at Tatooine
+TieFighter departing from Endor
+DeathStar docking at Endor
+  Luke departing DeathStar at Endor
+MillenniumFalcon departing from Tatooine
+TieFighter docking at Tatooine
+  Vader boarding TieFighter at Tatooine
+DeathStar departing from Endor
+MillenniumFalcon docking at Dagobah
+TieFighter departing from Tatooine
+DeathStar docking at Tatooine
+MillenniumFalcon departing from Dagobah
+TieFighter docking at Dagobah
+DeathStar departing from Tatooine
+MillenniumFalcon docking at Endor
+TieFighter departing from Dagobah
+DeathStar docking at Dagobah
+MillenniumFalcon departing from Endor
+TieFighter docking at Endor
+  Vader departing TieFighter at Endor
+DeathStar departing from Dagobah
+MillenniumFalcon docking at Tatooine
+TieFighter departing from Endor

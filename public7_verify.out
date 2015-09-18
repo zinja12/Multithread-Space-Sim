@@ -1,0 +1,10 @@
+% ruby space.rb verify public7.in 
+% Invalid event: DeathStar docking at Tatooine
+%   Tatooine has too many ships
+% Invalid event: MillenniumFalcon docking at Dagobah
+%   Dagobah has too many ships
+% Invalid event: Vader boarding MillenniumFalcon at Tatooine
+%   MillenniumFalcon not at Tatooine
+% Invalid event: TieFighter docking at Dagobah
+%   Dagobah has too many ships
+INVALID
